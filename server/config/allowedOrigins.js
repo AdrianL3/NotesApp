@@ -1,5 +1,5 @@
 const allowedOrigins = [
-    'htpp://localhost:3000',
+    'http://localhost:3000',
     'https://www.yourwebsite.com',
     'https://yourwebsite.com',
 ]
